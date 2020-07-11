@@ -1,0 +1,2 @@
+export LD_LIBRARY_PATH=/mnt/hdd/dev/custom-rtsp-poc/deps/opencv-4.3.0-dist/lib
+export GST_PLUGIN_PATH=/usr/local/lib/gstreamer-1.0
